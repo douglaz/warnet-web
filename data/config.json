@@ -1,163 +1,123 @@
 {
   "teams": [
     {
-      "name": "reddignn",
+      "name": "coffee",
       "nodes": [
-        "tank-0000-reddignn",
-        "tank-0001-reddignn",
-        "tank-0002-reddignn",
-        "tank-0003-reddignn",
-        "tank-0004-reddignn",
-        "tank-0005-reddignn",
-        "tank-0006-reddignn",
-        "tank-0007-reddignn",
-        "tank-0008-reddignn",
-        "tank-0009-reddignn",
-        "tank-0010-reddignn"
+        "tank-0020-coffee",
+        "tank-0021-coffee",
+        "tank-0022-coffee",
+        "tank-0023-coffee",
+        "tank-0024-coffee",
+        "tank-0025-coffee",
+        "tank-0026-coffee",
+        "tank-0027-coffee",
+        "tank-0028-coffee",
+        "tank-0029-coffee"
+      ]
+    },
+    {
+      "name": "emerald",
+      "nodes": [
+        "tank-0060-emerald",
+        "tank-0061-emerald",
+        "tank-0062-emerald",
+        "tank-0063-emerald",
+        "tank-0064-emerald",
+        "tank-0065-emerald",
+        "tank-0066-emerald",
+        "tank-0067-emerald",
+        "tank-0068-emerald",
+        "tank-0069-emerald"
+      ]
+    },
+    {
+      "name": "olive",
+      "nodes": [
+        "tank-0050-olive",
+        "tank-0051-olive",
+        "tank-0052-olive",
+        "tank-0053-olive",
+        "tank-0054-olive",
+        "tank-0055-olive",
+        "tank-0056-olive",
+        "tank-0057-olive",
+        "tank-0058-olive",
+        "tank-0059-olive"
       ]
     },
     {
       "name": "orange",
       "nodes": [
-        "tank-0011-orange",
-        "tank-0012-orange",
-        "tank-0013-orange",
-        "tank-0014-orange",
-        "tank-0015-orange",
-        "tank-0016-orange",
-        "tank-0017-orange",
-        "tank-0018-orange",
-        "tank-0019-orange",
-        "tank-0020-orange",
-        "tank-0021-orange"
+        "tank-0040-orange",
+        "tank-0041-orange",
+        "tank-0042-orange",
+        "tank-0043-orange",
+        "tank-0044-orange",
+        "tank-0045-orange",
+        "tank-0046-orange",
+        "tank-0047-orange",
+        "tank-0048-orange",
+        "tank-0049-orange"
+      ]
+    },
+    {
+      "name": "purple",
+      "nodes": [
+        "tank-0030-purple",
+        "tank-0031-purple",
+        "tank-0032-purple",
+        "tank-0033-purple",
+        "tank-0034-purple",
+        "tank-0035-purple",
+        "tank-0036-purple",
+        "tank-0037-purple",
+        "tank-0038-purple",
+        "tank-0039-purple"
+      ]
+    },
+    {
+      "name": "rust",
+      "nodes": [
+        "tank-0000-rust",
+        "tank-0001-rust",
+        "tank-0002-rust",
+        "tank-0003-rust",
+        "tank-0004-rust",
+        "tank-0005-rust",
+        "tank-0006-rust",
+        "tank-0007-rust",
+        "tank-0008-rust",
+        "tank-0009-rust"
+      ]
+    },
+    {
+      "name": "silver",
+      "nodes": [
+        "tank-0070-silver",
+        "tank-0071-silver",
+        "tank-0072-silver",
+        "tank-0073-silver",
+        "tank-0074-silver",
+        "tank-0075-silver",
+        "tank-0076-silver",
+        "tank-0077-silver",
+        "tank-0078-silver",
+        "tank-0079-silver"
       ]
     },
     {
       "name": "yellow",
       "nodes": [
-        "tank-0022-yellow",
-        "tank-0023-yellow",
-        "tank-0024-yellow",
-        "tank-0025-yellow",
-        "tank-0026-yellow",
-        "tank-0027-yellow",
-        "tank-0028-yellow",
-        "tank-0029-yellow",
-        "tank-0030-yellow",
-        "tank-0031-yellow",
-        "tank-0032-yellow"
-      ]
-    },
-    {
-      "name": "green",
-      "nodes": [
-        "tank-0033-green",
-        "tank-0034-green",
-        "tank-0035-green",
-        "tank-0036-green",
-        "tank-0037-green",
-        "tank-0038-green",
-        "tank-0039-green",
-        "tank-0040-green",
-        "tank-0041-green",
-        "tank-0042-green",
-        "tank-0043-green"
-      ]
-    },
-    {
-      "name": "blue",
-      "nodes": [
-        "tank-0044-blue",
-        "tank-0045-blue",
-        "tank-0046-blue",
-        "tank-0047-blue",
-        "tank-0048-blue",
-        "tank-0049-blue",
-        "tank-0050-blue",
-        "tank-0051-blue",
-        "tank-0052-blue",
-        "tank-0053-blue",
-        "tank-0054-blue"
-      ]
-    },
-    {
-      "name": "violet",
-      "nodes": [
-        "tank-0055-violet",
-        "tank-0056-violet",
-        "tank-0057-violet",
-        "tank-0058-violet",
-        "tank-0059-violet",
-        "tank-0060-violet",
-        "tank-0061-violet",
-        "tank-0062-violet",
-        "tank-0063-violet",
-        "tank-0064-violet",
-        "tank-0065-violet"
-      ]
-    },
-    {
-      "name": "black",
-      "nodes": [
-        "tank-0066-black",
-        "tank-0067-black",
-        "tank-0068-black",
-        "tank-0069-black",
-        "tank-0070-black",
-        "tank-0071-black",
-        "tank-0072-black",
-        "tank-0073-black",
-        "tank-0074-black",
-        "tank-0075-black",
-        "tank-0076-black"
-      ]
-    },
-    {
-      "name": "white",
-      "nodes": [
-        "tank-0077-white",
-        "tank-0078-white",
-        "tank-0079-white",
-        "tank-0080-white",
-        "tank-0081-white",
-        "tank-0082-white",
-        "tank-0083-white",
-        "tank-0084-white",
-        "tank-0085-white",
-        "tank-0086-white",
-        "tank-0087-white"
-      ]
-    },
-    {
-      "name": "grey",
-      "nodes": [
-        "tank-0088-grey",
-        "tank-0089-grey",
-        "tank-0090-grey",
-        "tank-0091-grey",
-        "tank-0092-grey",
-        "tank-0093-grey",
-        "tank-0094-grey",
-        "tank-0095-grey",
-        "tank-0096-grey",
-        "tank-0097-grey",
-        "tank-0098-grey"
-      ]
-    },
-    {
-      "name": "brown",
-      "nodes": [
-        "tank-0099-brown",
-        "tank-0100-brown",
-        "tank-0101-brown",
-        "tank-0102-brown",
-        "tank-0103-brown",
-        "tank-0104-brown",
-        "tank-0105-brown",
-        "tank-0106-brown",
-        "tank-0107-brown",
-        "tank-0108-brown",
-        "tank-0109-brown"
+        "tank-0010-yellow",
+        "tank-0011-yellow",
+        "tank-0012-yellow",
+        "tank-0013-yellow",
+        "tank-0014-yellow",
+        "tank-0015-yellow",
+        "tank-0016-yellow",
+        "tank-0017-yellow",
+        "tank-0018-yellow",
+        "tank-0019-yellow"
       ]
     }
   ],
@@ -165,13 +125,23 @@
     "points_per_unreachable_node": 10,
     "points_per_lagging_node": 5,
     "core_version": {
-      "99.1.0": 10,
-      "24.2.0": 10,
-      "0.12.0": 6
+      "99.1.0": 50,
+      "28.0.0": 40,
+      "27.2.0": 30,
+      "27.1.0": 25,
+      "27.0.0": 20,
+      "26.2.0": 15,
+      "26.0.0": 10,
+      "25.2.0": 8,
+      "25.0.0": 5,
+      "24.2.0": 3,
+      "23.2.0": 2,
+      "22.2.0": 1
     }
   },
   "config": {
     "blocks_behind_before_considered_lagging": 5
   },
-  "fork_observer_api": "https://0b3a-102-219-153-210.ngrok-free.app/api/simulate"
+  "fork_observer_api": "http://134.199.176.233/fork-observer/api/v2/rpc",
+  "websocket_url": "ws://localhost:3040"
 }
