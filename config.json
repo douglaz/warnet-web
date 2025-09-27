@@ -136,5 +136,5 @@
     "blocks_behind_before_considered_lagging": 5
   },
 
-  "fork_observer_api": "http://143.198.241.152/fork-observer/api/14593470/data.json"
+  "fork_observer_api": "http://134.199.176.233/fork-observer/api/14593470/data.json"
 }
